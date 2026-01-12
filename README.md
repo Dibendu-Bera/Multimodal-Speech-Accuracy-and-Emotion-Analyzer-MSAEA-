@@ -70,7 +70,7 @@ To run the inference app on your local machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [[https://github.com/Dibendu-Bera/MSAEA](https://github.com/Dibendu-Bera/Multimodal-Speech-Accuracy-and-Emotion-Analyzer-MSAEA-).git]([https://github.com/DibenduBera/MSAEA](https://github.com/Dibendu-Bera/Multimodal-Speech-Accuracy-and-Emotion-Analyzer-MSAEA-).git)
+    git clone https://github.com/Dibendu-Bera/Multimodal-Speech-Accuracy-and-Emotion-Analyzer-MSAEA-.git
     cd MSAEA
     ```
 

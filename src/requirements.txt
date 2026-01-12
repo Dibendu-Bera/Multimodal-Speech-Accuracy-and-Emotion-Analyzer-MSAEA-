@@ -1,0 +1,9 @@
+transformers
+torch
+peft
+accelerate
+gradio
+datasets
+scipy
+soundfile
+librosa

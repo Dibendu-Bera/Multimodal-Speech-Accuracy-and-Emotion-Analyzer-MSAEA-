@@ -1,6 +1,3 @@
-Here is the clean Markdown code for your `README.md` with all citation markers removed.
-
-```markdown
 # Multimodal Speech Accuracy and Emotion Analyzer (MSAEA)
 
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/DibenduBera/Multimodal-Speech-Accuracy-and-Emotion-Analyzer)
@@ -90,4 +87,3 @@ To run the inference app on your local machine:
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```
